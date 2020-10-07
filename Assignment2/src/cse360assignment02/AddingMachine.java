@@ -15,7 +15,7 @@ public class AddingMachine {
   
   public void add (int value) {
 	  total = total + value;
-	  number = " + " + value; 
+	  number = " + " + value;
   }
 
   public void subtract (int value) {
