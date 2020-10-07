@@ -1,3 +1,4 @@
+//https://github.com/yellowresources/CSE360Assignment02.git
 package cse360assignment02;
 
 public class AddingMachine {
@@ -16,7 +17,6 @@ public class AddingMachine {
   public void add (int value) {
 	  total = total + value;
 	  number = " + " + value; 
-	  
   }
 
   public void subtract (int value) {
